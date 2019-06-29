@@ -4,10 +4,27 @@
     <title><![CDATA[test]]></title>
     <url>%2F2019%2F06%2F28%2Ftest%2F</url>
     <content type="text"><![CDATA[test]]></content>
+      <categories>
+        <category>a</category>
+        <category>c</category>
+        <category>d</category>
+        <category>e</category>
+      </categories>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F06%2F28%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>a</category>
+        <category>b</category>
+      </categories>
+      <tags>
+        <tag>Testing 1</tag>
+        <tag>Testing 2</tag>
+        <tag>Testing 3</tag>
+        <tag>Testing 4</tag>
+        <tag>Testing 5</tag>
+      </tags>
   </entry>
 </search>
